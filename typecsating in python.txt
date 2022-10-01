@@ -1,0 +1,5 @@
+a = 5
+b = 2
+total = a+b
+int_total = int(total)
+print(total)
